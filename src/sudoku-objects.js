@@ -62,8 +62,3 @@ Board.prototype.displayAllStuff = function() {
     console.log(this.spaces[x].join());
   }
 };
-
-// let board1 = new Board();
-// board1.displayAllStuff();
-// board1.checkColumn();
-// board1.displayAllStuff();
